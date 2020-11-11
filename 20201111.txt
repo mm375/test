@@ -1,3 +1,5 @@
 第二回Git勉強会
 
 maserからmarge
+
+コンフリクト
